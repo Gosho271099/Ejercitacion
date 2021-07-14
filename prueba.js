@@ -1,1 +1,1 @@
-const = 4;
+let constante = 4;
